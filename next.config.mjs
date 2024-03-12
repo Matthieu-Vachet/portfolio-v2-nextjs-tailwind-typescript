@@ -8,11 +8,6 @@ const nextConfig = {
     devIndicators: {
         buildActivityPosition: "top-right",
     },
-    experimental: {
-        legacyBrowsers: false,
-        swcFileReading: true,
-        appDir: true,
-    },
 };
 
 export default nextConfig;

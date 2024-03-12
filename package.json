@@ -11,11 +11,15 @@
     "dependencies": {
         "@vercel/analytics": "^1.2.2",
         "@vercel/speed-insights": "^1.0.10",
+        "clsx": "^2.1.0",
+        "framer-motion": "^11.0.12",
         "gsap": "^3.11.5",
+        "mini-svg-data-uri": "^1.4.4",
         "next": "^14.1.3",
         "react": "^18",
         "react-dom": "^18",
-        "scroller-motion": "^1.2.3",
+        "react-icons": "^5.0.1",
+        "tailwind-merge": "^2.2.1",
         "tailwind-scrollbar": "^3.1.0",
         "usehooks-ts": "^3.0.1"
     },
