@@ -20,7 +20,6 @@ const config: Config = {
             "2xl": "1600px",
         },
         extend: {
-            darkMode: "class",
             colors: {
                 "basic-onyx": "#181818",
                 "basic-white": "#fffff0",
