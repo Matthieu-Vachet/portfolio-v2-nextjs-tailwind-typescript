@@ -8,6 +8,10 @@ const nextConfig = {
     devIndicators: {
         buildActivityPosition: "top-right",
     },
+    i18n: {
+        locales: ["en", "fr"],
+        defaultLocale: "fr",
+    },
 };
 
 export default nextConfig;

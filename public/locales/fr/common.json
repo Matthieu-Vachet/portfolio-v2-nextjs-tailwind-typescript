@@ -1,0 +1,85 @@
+{
+    "header": {
+        "langue": "La langue Francaise est actuellement activée.",
+        "btn-mobile-theme-white": "Clair",
+        "btn-mobile-theme-black": "Sombre"
+    },
+    "hero": {
+        "slogan": "Plongez dans ma créativité codée."
+    },
+    "about": {
+        "title": "Apprenez à me connaître",
+        "text-1": "Fan d'informatique depuis ma jeunesse, j'ai exploré la programmation bien avant de devenir intégrateur web. Pour moi, chaque ligne de code est une œuvre d'art, une exploration infinie de création.",
+        "text-2": "Mon engagement dans ce domaine est bien plus qu'une carrière, c'est une passion sans limites, une aventure que je poursuivrai avec détermination jusqu'à ce que mes mains ne puissent plus glisser sur un clavier.",
+        "text-3": "Aujourd'hui, je suis prêt à mettre ces compétences au service de vos projets. Ensemble, nous pouvons créer des sites web dynamiques, optimisés et sans bugs. Je suis impatient de vous aider à concrétiser vos idées et à faire de vos projets une réalité.",
+        "button-1": "Mon CV",
+        "button-2": "Contact"
+    },
+    "experience": {
+        "title": "Les étapes clés de mon parcours",
+        "button": "Diplôme",
+        "text": "Déterminé à exceller dans mon domaine, je suis animé par une passion inébranlable pour le web et je m'efforce constamment de repousser mes limites pour offrir des solutions web de qualité exceptionnelle à mes futurs clients.",
+        "certificats": "Mes certificats de cours"
+    },
+    "skills": {
+        "title": "Mon Répertoire de Compétences",
+        "text-1": "Front-end",
+        "text-2": "Back-end",
+        "text-3": "Outils de développement",
+        "text-4": "Conception et collaboration"
+    },
+    "projets": {
+        "title": "Découvrez mes projets web"
+    },
+    "contact": {
+        "title": "Avez-vous une question, une proposition ou un projet en tête ? Je suis prêt à collaborer avec vous sur tout ce qui vous intéresse !",
+        "input-firstname": "Nom",
+        "input-lastname": "Prénom",
+        "button-submit": "Envoyer",
+        "button-delete": "Effacer"
+    },
+    "error": {
+        "submit": "Veuillez remplir tous les champs correctement.",
+        "firstname": "Le prénom est obligatoire et doit comporter au moins 3 caractères.",
+        "lastname": "Le nom est obligatoire et doit comporter au moins 3 caractères.",
+        "email": "Veuillez saisir une adresse email valide.",
+        "message": "Le message est obligatoire et doit comporter au moins 3 caractères."
+    },
+    "success": {
+        "firstname": "Votre prénom comporte 3 caractères ou plus.",
+        "lastname": "Votre nom comporte 3 caractères ou plus.",
+        "email": "L'addresse email saisie est valide.",
+        "message": "Votre message comporte 3 caractères ou plus.",
+        "reset": "Tout les champs ont été rénitilisés avec succès."
+    },
+    "footer": {
+        "title-contact": "Contact",
+        "title-link": "Liens",
+        "title-projects": "Projets",
+        "title-social": "Suivez-moi",
+        "licence": "Ce site est distribué sous la licence MIT"
+    },
+    "theme": {
+        "dark": "Mode sombre activé avec succès.",
+        "light": "Mode clair activé avec succès."
+    },
+    "login": {
+        "error-login": "Email ou mot de passe incorrect, veuillez reessayer",
+        "success-login": "Connexion reussie !",
+        "success-logout": "Deconnexion reussie !"
+    },
+    "modal": {
+        "delete": {
+            "title": "Suppression",
+            "text": "Etes-vous sûr de vouloir supprimer ce projet ?",
+            "success": "Projet supprimé avec succès !",
+            "btn-1": "Supprimer",
+            "btn-2": "Annuler"
+        },
+        "create": {
+            "title": "Ajout de projet",
+            "success": "Projet ajouté avec succès !",
+            "error": "Erreur lors de la création du projet, veuillez reessayer."
+        }
+    }
+}
