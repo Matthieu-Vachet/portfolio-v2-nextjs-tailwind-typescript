@@ -21,7 +21,7 @@ const config: Config = {
         },
         extend: {
             colors: {
-                "basic-onyx": "#181818",
+                basicOnyx: "#181818",
                 "basic-white": "#fffff0",
                 "strock-glass": "rgba(182, 181, 187, 0.4)",
                 "basic-black": "#0d0d0d",
